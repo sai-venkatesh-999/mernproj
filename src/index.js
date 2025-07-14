@@ -1,6 +1,10 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
+<<<<<<< HEAD
+=======
+import 'boostrap/dist/css/boostrap.min.css';
+>>>>>>> d9dfa40 (Initial commit)
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 
